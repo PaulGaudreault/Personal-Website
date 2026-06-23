@@ -5,4 +5,4 @@
 
 Learn more about me [here](about)!
 
-Have any questions? [We'd love to hear from you!](mailto: {{site.email}})
+Have any questions? [Feel free to reach out!](mailto: {{site.email}})
