@@ -1,2 +1,4 @@
 # Personal-Website
-Personal Website with personal and academic projects.
+Static Website for personal and academic projects.
+
+**Testing the Bold function**
