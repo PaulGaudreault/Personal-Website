@@ -1,3 +1,3 @@
 This is the about file.
 
-[Return to home page](../index.md)
+[Return to home page](../index)
