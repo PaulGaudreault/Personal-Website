@@ -11,3 +11,5 @@ by two trailing spaces at the end of a line.
 #### List:
 - Use hyphens to make a list
 + Plus signs also work
+
+![Carpentries Logo](https://carpentries.org/thecarpentries-opengraph.png)
