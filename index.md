@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Home"
+author: "Paul Gaudreault"
+---
+
+
 # Building Websites in Github
 
 ## Description
