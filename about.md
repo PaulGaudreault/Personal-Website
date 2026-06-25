@@ -1,4 +1,4 @@
-[Return to home page](index)
+{% include navigation.html%}
 
 ## Contact me
 - Email: [{{site.email}}](mailto: {{site.email}})
