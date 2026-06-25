@@ -1,3 +1,3 @@
-{% include navigation.html%}
-
-{% include footer.html %}
+'''
+layout: default
+'''
