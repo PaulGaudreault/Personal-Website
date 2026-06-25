@@ -1,12 +1,8 @@
 ---
-layout: post
+layout: default
 title: "Home"
 author: "Paul Gaudreault"
 ---
-
-{% include navigation.html %}
-
 ## Description
 {{ site.description }}
 
-{% include footer.html %}
