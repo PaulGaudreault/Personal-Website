@@ -1,10 +1,10 @@
-{% include navigation.html %}
-
 ---
 layout: post
 title: "Home"
 author: "Paul Gaudreault"
 ---
+
+{% include navigation.html %}
 
 ## Description
 {{ site.description }}
