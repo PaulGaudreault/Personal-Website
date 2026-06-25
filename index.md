@@ -7,5 +7,11 @@ author: "Paul Gaudreault"
 {{ site.description }}
 
 {% assign lead=site.team_members | where: "role", "project lead" | first %}
-The project is led by {{ lead.name }}
+The project is led by {{ lead.name }}  
 [See our full team](about#team)
+
+## Blog Posts
+
+{% for post in site.blogposts %}
+- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
