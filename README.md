@@ -12,4 +12,6 @@ by two trailing spaces at the end of a line.
 - Use hyphens to make a list
 + Plus signs also work
 
+<!-- This is a commment -->
+
 ![Carpentries Logo](https://carpentries.org/thecarpentries-opengraph.png)
